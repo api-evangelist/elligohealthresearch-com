@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Elligohealthresearch is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by norwest-venture-partners) and added to the network as a stub for full-pipeline profiling.
-- https://elligohealthresearch.com
+Elligohealthresearch is a health research company focused on accelerating clinical trial recruitment and patient engagement through technology platforms. It provides services that connect trial sponsors with participants, offering tools for data collection, monitoring, and analytics to improve trial efficiency and outcomes. Backed by Norwest Venture Partners, the company aims to streamline the clinical research process and enhance patient experiences across studies.
+
+**Areas:** Company · Health · ClinicalTrials · Research · Technology
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://elligohealthresearch.com)
+- [Privacy policy](https://www.elligo.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/elligohealthresearch-com/](https://apis.io/providers/elligohealthresearch-com/).
